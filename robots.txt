@@ -1,0 +1,2 @@
+User-agent: PetalBot
+Crawl-delay: 40 # задает таймаут в 40 секунд только для PetalBot
